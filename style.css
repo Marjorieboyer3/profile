@@ -1,0 +1,110 @@
+body {
+    background-color: #EBEBEB;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: black;
+    font-size: 15px;
+    line-height: 1.6em;
+    text-align: center;
+}
+
+
+img{
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 5px solid #373771 ;
+
+}
+
+h1, h2, h3 {
+    font-family: 'Raleway', sans-serif;
+    color: #272922;
+}
+
+h1 {
+  font-size: 30px;
+  color: #373771;
+  letter-spacing: 1,5px;
+}
+
+h2 {
+    font-size: 26px;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+h4 {
+    font-size: 10px;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:hover {
+  color: #373771;
+}
+
+.container {
+  width: 800px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+
+}
+/* margin/border/padding/width/height */
+
+.card {
+  padding: 20px;
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+
+}
+
+.img-circle {
+  border-radius: 300px;
+}
+
+.btn-blue {
+    background-color: #373771;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  margin: 10px;
+}
+
+.list-inline {
+  padding-left: 0px;
+  border: 10px;
+}
+
+.fa {
+  font-size: 40px;
+  padding: 10px;
+}
+
+#image-ronde {
+  margin-top: 0px;
+  border-radius: 10px;
+}
+
+.activites {
+  padding: 10px;
+  text-align: justify;
+}
+
+p {
+  text-align: justify;
+  padding: 10px;
+  font-size: 16px;
+}
